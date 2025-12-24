@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **info@zaherr.com**
 
-- 📄 Know about my experiences [https://zaherr.com/about-us](https://zaherr.com/about-us)
+- 📄 Know about my experiences [https://zaherr.com/about-me](https://zaherr.com/about-me)
 
 - ⚡ Fun fact, **things aren’t always #000000 and #FFFFFF**
 
