@@ -1,13 +1,13 @@
-<h1 align="center">Hi there 👋, I'm Zaher</h1>
+<h1 align="center">Hi there 👋, I'm Zahir</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zaherkhirullah&label=Profile%20Views&color=0e75b6&style=flat" alt="Zaher Khirullah" />
-<a href="https://zaherr.com" target="blank"><img src="https://img.shields.io/website/http/www.zaherr.com" alt="Zaher Khirullah" /></a> 
-<a href="https://twitter.com/zaherkhirullah" target="blank"><img src="https://img.shields.io/twitter/follow/zaherkhirullah?logo=twitter&style=badge" alt="Zaher Khirullah" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zaherkhirullah&label=Profile%20Views&color=0e75b6&style=flat" alt="Zahir Hayrullah" />
+<a href="https://zaherr.com" target="blank"><img src="https://img.shields.io/website/http/www.zaherr.com" alt="Zahir Hayrullah" /></a> 
+<a href="https://twitter.com/zaherkhirullah" target="blank"><img src="https://img.shields.io/twitter/follow/zaherkhirullah?logo=twitter&style=badge" alt="Zahir Hayrullah" /></a> </p>
 
 <h3 align="left">👨‍💻 Backend Web Developer / PHP & Laravel</h3>
 <a href="https://github.com/zaherkhirullah"><h2>🏆 Github Profile Trophy</h2></a>
 <a href="https://github.com/zaherkhirullah">
-<img src="https://github-profile-trophy.vercel.app/?username=zaherkhirullah" alt="Zaher Khirullah" />
+<img src="https://github-profile-trophy.vercel.app/?username=zaherkhirullah" alt="Zahir Hayrullah" />
 </a>
 ---
 
@@ -25,7 +25,7 @@
 
 - ⚡ Fun fact, **things aren’t always #000000 and #FFFFFF**
 
-<h3 align="left">It's Me, Zaher!</h3>
+<h3 align="left">It's Me, Zahir!</h3>
 
 I don’t know how to start introducing myself. I can briefly say that I'm an always-learner software engineer who wants to build his future with zeros and ones. I’m 25 years old and, I am syrian, I’ve been living in Turkey since 2013.
 
@@ -34,9 +34,9 @@ I have loved computer technologies, softwares and learn new things.
 <hr/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/zaherkhirullah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Zaher Khirullah" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/zaherkhirullah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Zaher Khirullah" height="30" width="40" /></a>
-<a href="https://bitbucket.com/zaherkhirullah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bitbucket.svg" alt="Zaher Khirullah" height="30" width="40" /></a>
+<a href="https://twitter.com/zaherkhirullah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Zahir Hayrullah" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/zaherkhirullah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Zahir Hayrullah" height="30" width="40" /></a>
+<a href="https://bitbucket.com/zaherkhirullah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bitbucket.svg" alt="Zahir Hayrullah" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -93,4 +93,4 @@ I have loved computer technologies, softwares and learn new things.
 </div>
 
 <br/>
-ZAHER KHIRULLAH / Web Developer - Computer Engineer.
+Zahir Hayrullah / Web Developer - Computer Engineer.
